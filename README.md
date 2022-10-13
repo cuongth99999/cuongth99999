@@ -1,4 +1,4 @@
-### Hi, I'm Huu Cuong 🌱 
+### Hi, I'm Ta Huu Cuong 🌱 
 
 
 - 🔭 I'm passionate about Machine Learning and Data Engineering
