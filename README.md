@@ -25,4 +25,4 @@
 ---
 
 ### 📫 Contact me via:
-<a title="java" href="https://www.facebook.com/XXXTHC/" target="_blank"><img src="https://img.icons8.com/nolan/64/facebook-new.png"/></a>
+<a title="java" href="https://www.facebook.com/XXXTHC/" target="_blank"><img src="https://img.icons8.com/nolan/50/facebook-new.png"/></a>
