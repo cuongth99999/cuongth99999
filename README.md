@@ -5,6 +5,7 @@
 - 🥅 Favorite Quote: Never Too Late to Pursue Your Dreams
 - ⚡ Fun fact: I want to be a professional programmer 😅
 
+
 ## Languages and Tools 🚀
 
 <div align="center">
@@ -17,7 +18,10 @@
     <a title="c" href="https://www.geeksforgeeks.org/c-programming-language/" target="_blank"><img src="https://img.icons8.com/ios-filled/48/000000/c.png"/></a>
     <a title="java" href="https://www.java.com/en/" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/></a>
 </div>
-</br>
+
+<br />
+<br />
+
 
 ### 📫 Contact me via:
 
