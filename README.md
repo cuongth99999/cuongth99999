@@ -21,6 +21,9 @@
 </div>
 
 <br />
+<br />
+
+---
 
 ### 📫 Contact me via:
 
