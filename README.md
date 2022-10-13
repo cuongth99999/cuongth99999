@@ -7,7 +7,7 @@
 
 <br />
 
-### Languages and Tools 🚀
+### Languages and Tools ⛱
 
 <div align="center">
     <a title="html" href="https://www.w3schools.com/html/" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
