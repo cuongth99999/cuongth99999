@@ -16,7 +16,7 @@
     <a title="php" href="https://www.php.net/" target="_blank"><img src="https://img.icons8.com/officel/60/000000/php-logo.png"/></a>
     <a title="c" href="https://www.geeksforgeeks.org/c-programming-language/" target="_blank"><img src="https://img.icons8.com/ios-filled/48/000000/c.png"/></a>
     <a title="c++" href="https://www.cplusplus.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
-    <a title="c#" href="https://dotnet.microsoft.com/en-us/languages/csharp/" target="_blank"><img src="https://img.icons8.com/ios/50/null/c-sharp-logo.png"/></a>
+    <a title="c#" href="https://dotnet.microsoft.com/en-us/languages/csharp/" target="_blank"><img src="https://img.icons8.com/ios/48/null/c-sharp-logo.png"/></a>
     <a title="json" href="https://www.w3schools.com/js/js_json_intro.asp" target="_blank"><img src="https://img.icons8.com/color/48/000000/json--v1.png"/></a>
     <a title="java" href="https://www.java.com/en/" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/></a>
 </div>
