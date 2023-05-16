@@ -15,8 +15,8 @@
         <img height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=cuongth99999&theme=radical&hide_border=falsee" alt="cuongth99999" /><br/>
     </a>
 </p>
-<img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=cuongth99999&theme=radical&hide_border=false&include_all_commits=false&count_private=true" alt="cuongth99999" />
-<img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuongth99999&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="cuongth99999" />
+<img align="center" height="150px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cuongth99999&theme=radical&hide_border=false&include_all_commits=false&count_private=true" alt="cuongth99999" />
+<img align="center" height="150px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cuongth99999&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="cuongth99999" />
 </div>
 
 ### 📫 Contact me via:
